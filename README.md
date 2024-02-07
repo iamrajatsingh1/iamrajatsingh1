@@ -3,7 +3,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <!-- Intro  -->
 <h3 align="center">
@@ -115,16 +115,6 @@
 ![Rajat's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamrajatsingh1&custom_title=Rajat%20Singh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
-
-## - What i do
-
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
    
 <br />
 <h2 align="center">🤝 Support</h2>
